@@ -1,8 +1,10 @@
-**Project Description**
+![](./cipher.png)
+# Cipher
+
+## Project Description
 A simple substitution cipher tool. Ciphers text using a Caesar or Polyalphabetic cipher.
 
-
-![](Home_https://docs.google.com/uc?export=download&id=0B3-i5Xt15LcdaFlkeFlVNGlrVUk)
+![](./Screenshots/cipher.png)
 
 ## Features:
 * Caesar Cipher
